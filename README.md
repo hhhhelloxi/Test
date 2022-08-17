@@ -89,4 +89,4 @@ echo "回显内容"
 reboot
 ```
 ## 插入图片
-![测试](D://哈理工//学习资料//11.jpg)
+![封2.jpg](https://s2.loli.net/2022/08/17/B8vkV6GOIupgWhD.jpg)
